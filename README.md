@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/wovenlens-icon.png" alt="WovenLens logo" width="128" height="128">
+</p>
+
 # WovenLens releases
 
 **All your threads. A clearer view.**
