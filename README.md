@@ -40,7 +40,7 @@ The result should match the line for that file in `SHA256SUMS.txt`.
 
 1. **Add an AI model.** Open **Connections → Models** and add an API key for OpenAI, Anthropic or xAI. You choose the provider, and requests go straight from your Mac to that provider.
 2. **Connect your services.** Under **Connections → Services**, connect the ones you want to use, such as Google (Gmail and Google Calendar), Apple Calendar, Jira, GitLab or Slack. You can also add MCP servers for other tools.
-3. **Set up Daily Lens.** Add widgets, drag them into order, then click **Test & save**.
+3. **Set up Daily Lens.** Add widgets, drag them into order, then click **Test widgets** and **Save**.
 4. **Ask your agents.** Start a conversation, or build a workflow and schedule it as a job.
 
 ## Privacy
